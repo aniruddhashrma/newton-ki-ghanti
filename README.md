@@ -1,2 +1,1 @@
-# newton-ki-ghanti
-nothing
+# NC27
